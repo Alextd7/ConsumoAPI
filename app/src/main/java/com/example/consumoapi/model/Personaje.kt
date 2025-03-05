@@ -1,6 +1,6 @@
 package com.example.consumoapi.model
 
-data class Result(
+data class Personaje(
     val created: String,
     val episode: List<String>,
     val gender: String,
